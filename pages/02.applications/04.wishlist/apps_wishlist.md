@@ -18,6 +18,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | 2FAuth | Manage and Generate 2FA Codes | [Upstream](https://github.com/Bubka/2FAuth) |  |
 | 10er10 |  | [Upstream](https://github.com/dready92/10er10) |  |
 | [AbanteCart](https://abantecart.com) | Create an e-commerce website |  | [Package Draft](https://github.com/YunoHost-Apps/abantecart_ynh) |
+| [Ackee](https://ackee.electerious.com/) | Track without being tracked |  [Upstream](https://github.com/electerious/Ackee) |
 | AdGuard |  | [Upstream](https://github.com/AdguardTeam/AdGuardHome) | [Package Draft](https://github.com/YunoHost-Apps/adguard_ynh) |
 | adhocserver | An ad hoc server for the Sony PSP |  | [Package Draft](https://github.com/matlink/adhocserver_ynh) |
 | [agora](https://www.agora-project.net/) | Create collaborative and creative digital space |  | [Package Draft](https://github.com/YunoHost-Apps/agora_ynh) |
